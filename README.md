@@ -3,10 +3,10 @@ The Uber Data Analysis Project aims to explore trip patterns and user behavior u
 
 
 ## Team Members:
-1. Amr Khaled Mahmoud
-2. Mohamed Saber Mahmoud
-3. Ahmed Nabil Mohamed
-4. Alaa Ahmed Mohamed
-5. Mohamed Abdelsalam Abdelfattah
+1. Amr Khaled Mahmoud (Python)
+2. Mohamed Saber Mahmoud (Power BI) 
+3. Ahmed Nabil Mohamed (Excel)
+4. Alaa Ahmed Mohamed (Python)
+5. Mohamed Abdelsalam Abdelfattah (Power BI)
 
 Instructor Name: Kareem Baqli
